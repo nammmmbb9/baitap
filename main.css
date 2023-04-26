@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(/anh/wp2983693-people-hd-wallpapers.jpg);
+}
+header{
+    font-size: 30px;
+    text-align: center;
+    height: 60px;
+    margin-top: 40px;
+    
+}
+
+
+.menu{
+    align-items: center;    
+    height: 20px;
+}
+.menu1{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 10px;
+    color: black;
+    margin-left: 20px;
+}
+
+.selec{
+    display: flex;
+
+}
+.selec1{
+    width: 300px;
+    height: 700px;
+   
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50% 50%;
+    margin: 30px 0 0 40px;
+
+}
+.selec2{
+    width: 900px;
+    height: 700px;
+    display: flex;
+    
+    
+}
+.img2{
+    width: 160px;
+    height: 140px;
+    margin: 30px 0 0 60px;
+    
+}
+.img3{
+    width: 100px;
+    height: 100px;
+    margin: 20px 0 0 90px;
+}
+.infsl1{
+    width: 600px;
+    background-color: rgba(254, 226, 192, 0.271);
+    height: 670px;
+    margin: 25px 20px 0 0 ;
+    display: flex;
+    border-radius: 20px  20px ;
+
+
+}
+.infsl2{
+    width: 280px;
+    background-color:antiquewhite;
+    border-radius: 20px;
+    height: 670px;
+    margin-top: 25px;
+}
+.inf1{
+    font-size: 20px;
+    color: rgb(28, 2, 2);
+}
+
+
+.inf2{
+    font-size: 18px;
+    margin-top: 10px;
+    color: rgb(37, 1, 1);
+    
+    
+}
+.inf4{
+    width: 400px;
+    height: 670px;
+    background-color: antiquewhite;
+    border-radius: 20px 0 0  20px;
+    
+}
+.inf5{
+    width: 290px;
+    height: 300px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin: 130px 0 0 10px ;
+}
+.selec3{
+    width: 290px;
+    height: 700px;
+    margin: 0 0 0 10px ;
+    
+    
+    
+}
+.ten{
+    color: rgb(10, 10, 72);
+    font-size: 30px;
+}
+.inf{
+font-size: 18px;
+color: rgb(10, 10, 72);
+}
+
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 0.271);
+    display: flex;
+}
+
+
+.inf6{
+    font-size: 18px;
+    color: bisque;
+    margin-top: 10px 0 0 20px;
+}
+.inf8{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.inf9{
+    width:400px;
+    height: 250px;
+    margin-top: 40px;
+}
